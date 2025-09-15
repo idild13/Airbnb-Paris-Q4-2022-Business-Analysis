@@ -20,9 +20,8 @@ Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in r
    - Merged listings and calendar tables to build a **cohesive dataset**.  
 
 3. **Feature Engineering**  
-   - Classified listings into **Price Tiers** (Budget, Standard, Premium, Luxury, Ultra Luxury).  
-   - Aggregated guest reviews into **satisfaction scores** (cleanliness, communication, amenities, overall rating).  
-   - Created calculated fields to compare **revenue capture vs. potential revenue**.  
+   - Classified listings into **Price Tiers** (Budget, Standard, Premium, Luxury, Ultra Luxury).    
+   - Created calculated fields to compare **revenue capture vs. potential revenue** and analyze **the occupancy rate** over days/months.  
 
 4. **Final Dataset**  
    - Cleaned and structured dataset stored in **BigQuery** for querying and dashboarding.  
@@ -70,7 +69,7 @@ Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in r
 
 ## 🔹 Final Insights & Recommendations  
 1. **Revenue Optimization**: Apply dynamic pricing and targeted promotions to reduce booking gaps.  
-2. **Guest Experience**: Improve cleanliness and communication in underperforming listings.  
+2. **Listing Performance**: Focus on improving underperforming listings by analyzing pricing strategy, availability, and booking gaps.  
 3. **Host Strategy**: Encourage faster response times for higher guest satisfaction and booking conversions.  
 4. **Market Positioning**: Focus on improving Premium-tier listings and promoting high-potential Luxury/Ultra Luxury properties.  
 
