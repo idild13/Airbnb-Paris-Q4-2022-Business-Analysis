@@ -46,7 +46,10 @@ Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in r
 
 ## 🔹 Dashboard Preview  
 
-📊 **Explore the live dashboard here:**  
+<img src="./Screenshots/executive_summary.png" alt="Executive Summary" width="600" />
+
+
+### 📊 **Explore the live dashboard here:** 
 👉 [Airbnb Paris – Q4 2022 Business Dashboard](https://lookerstudio.google.com/reporting/9140899d-54a4-4806-b827-503bb171a327)  
 
 ---
