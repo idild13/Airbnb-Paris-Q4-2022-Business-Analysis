@@ -79,4 +79,4 @@ Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in r
 ---
 
 👩‍💻 *This project was developed as part of a Data Analytics Bootcamp at Le Wagon.  
-I focused on **data cleaning, SQL transformations, pricing and guest satisfaction analysis**, and dashboard creation.*  
+I focused on **data cleaning, SQL transformations, pricing and guest satisfaction analysis**, and **dashboard creation**.*  
