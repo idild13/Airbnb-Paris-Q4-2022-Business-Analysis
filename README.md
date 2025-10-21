@@ -1,4 +1,4 @@
-# 🏠 Airbnb Paris – Q4 2022 Business Analysis
+# 🏠 Airbnb Paris 🎡 – Q4 2022 Business Analysis
 
 ## 🔹 Executive Summary  
 Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in revenue capture, with only **72% of potential revenue realized**. This project explores how pricing, marketing, and guest satisfaction impact occupancy, conversion, and revenue. The analysis delivers actionable insights for hosts to optimize their listings, pricing, and guest experience.
@@ -49,8 +49,7 @@ Airbnb Paris in Q4 2022 achieved strong booking activity but underperformed in r
 <img src="./Screenshots/executive_summary.png" alt="Executive Summary" width="600" />
 
 
-### 📊 **Explore the live dashboard here:** 
-👉 [Airbnb Paris – Q4 2022 Business Dashboard](https://lookerstudio.google.com/reporting/9140899d-54a4-4806-b827-503bb171a327)  
+### 📊 **Explore the live dashboard here:** [Airbnb Paris – Q4 2022 Business Dashboard](https://lookerstudio.google.com/reporting/9140899d-54a4-4806-b827-503bb171a327)  
 
 ---
 
